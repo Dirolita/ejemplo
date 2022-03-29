@@ -1,0 +1,25 @@
+body{
+    
+}
+.roja{
+    background-color: rgb(226, 93, 115);
+}
+.amrilla{
+background-color: rgb(232, 248, 9);
+}
+.verde{
+background-color: rgb(128, 204, 15);
+}
+.btn-outline-primary {
+    color: #fff;
+    background-color: #c104fa;
+    border-color: #c104fa;
+  }
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #6d2c81;
+    border-color: #6d2c81;
+  }
+.header-logo{
+    width:13rem;
+}
